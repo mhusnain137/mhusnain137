@@ -202,6 +202,9 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 -->
 </div>
 📍 Faisalabad, Pakistan
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Talha511&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+</p>
 
 </td>
 </tr>
