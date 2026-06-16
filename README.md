@@ -88,6 +88,7 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 <td colspan="2" align="center">
 <p align="center">
 
+<br> <br> <br>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,jupyter,git,github" />
 <br/>
 
@@ -101,15 +102,6 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 </p>
 </td>
 </tr>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -201,7 +193,7 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 <a href="https://www.facebook.com/511930t"><img src="https://img.icons8.com/color/48/facebook-new.png" height="48"/></a>&nbsp;&nbsp; 
 -->
 
-<p align="center" style="margin-top:20px;">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Talha511&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 </p>
 </div>
