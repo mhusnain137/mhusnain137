@@ -45,7 +45,6 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
   <li>Python for AI Applications</li>
 </ul>
 
-<q><i>"The best way to learn AI is by building projects and solving real-world problems."</i></q>
 </p>
 </td>
 </tr>
