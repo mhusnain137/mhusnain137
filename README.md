@@ -32,7 +32,7 @@
 <tr>
 <td valign="top" colspan="2">
 <p align="justify">
-Hello! I'm <strong>Muhammad Husnain</strong>, a Machine Learning and Deep Learning enthusiast based in <strong>Faisalabad, Pakistan</strong>. Currently pursuing a <strong>BS in Computer Science</strong> at the University of Agriculture, Faisalabad (6th Semester), I have hands-on experience in developing AI and computer vision projects using Python and deep learning technologies. <br/><br/>
+Hello! I'm <strong>Muhammad Husnain</strong>, a Machine Learning and Deep Learning enthusiast based in <strong>Faisalabad, Pakistan</strong>. Currently pursuing a <strong>BS in Computer Science</strong> (6th Semester), I have hands-on experience in developing AI and computer vision projects using Python and deep learning technologies. <br/><br/>
 
 My interest lies in building intelligent systems that can learn from data and solve real-world problems. I have worked on several projects including <strong>Handwritten Digit Recognition</strong>, <strong>Traffic Sign Recognition</strong>, <strong>Hand Gesture Recognition</strong>, and <strong>Emotion Detection</strong>. Through these projects, I have gained practical experience in image preprocessing, model training, evaluation, and CNN-based computer vision applications.
 <br/><br/>
