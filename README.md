@@ -1,7 +1,7 @@
 <!-- -------------------------------- Header Section Starts -------------------------------- -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Husnain&fontSize=52&fontColor=06B6D4&animation=twinkling&fontAlignY=32&desc=%24%20python%20train_model.py%20--%20ML%20%7C%20CV%20%7C%20Deep%20Learning%20%F0%9F%9A%80&descAlignY=55&descSize=15&descAlignX=50&descColor=7DD3FC"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Husnain&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20and%20Deep%20Learning%20Enthusiast&descAlignY=55&descSize=16"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=CNN+%7C+Computer+Vision+%7C+Image+Classification+%F0%9F%96%BC%EF%B8%8F;TensorFlow+%7C+Keras+%7C+Deep+Learning+%F0%9F%A7%A0;Supervised+%26+Unsupervised+Learning+%F0%9F%93%88;Real-Time+AI+Prediction+Systems+%F0%9F%9A%80;Aspiring+Data+Scientist+%E2%9C%A8;Turning+Data+into+Intelligent+Solutions+%F0%9F%A4%96)](https://git.io/typing-svg)
 
