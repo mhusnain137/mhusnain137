@@ -80,6 +80,7 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 </tr>
 
 <!-- ======= TECH STACK ======= -->
+<br/>
 <tr>
 <th width="100%" align="center" colspan="2">🧰 Tech Stack</th>
 </tr>
