@@ -12,7 +12,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=mhusnain137&label=Profile+Views&color=0EA5E9&style=flat)](https://github.com/mhusnain137)
 <br>
 <br>
-[![Resume](https://img.shields.io/badge/📄%20Download%20Resume-0EA5E9?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0369A1)](./Resume.pdf)
+[![Resume](https://img.shields.io/badge/📄%20Resume-0EA5E9?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0369A1)](./Resume.pdf)
 
 
 </div>
