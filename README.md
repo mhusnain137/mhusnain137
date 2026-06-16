@@ -10,7 +10,7 @@
   <a href="https://github.com/mhusnain137/mhusnain137/blob/main/Resume.pdf">
     <img src="https://img.icons8.com/fluency/100/resume.png" alt="Resume Icon" width="100" />
     <br>
-    <img src="https://img.shields.io/static/v1?label=&message=Click%20to%20View%20My%20Resume&color=#406e82&style=for-the-badge&logo=hotjar&logoColor=white" height="50" style="border-radius:25px" />
+    <img src="https://img.shields.io/static/v1?label=&message=Click%20to%20View%20My%20Resume&color=406e82&style=for-the-badge&logo=hotjar&logoColor=white" height="50" style="border-radius:25px" />
   </a>
 </p>
 
