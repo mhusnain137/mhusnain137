@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-.[![Resume](https://img.shields.io/badge/Resume-Download%20CV-blue?style=for-the-badge)](./Muhammad_Husnain_Resume.pdf)
+.[![Resume](https://img.shields.io/badge/Resume-Download%20CV-blue?style=for-the-badge)](./Resume.pdf)
 </div>
 
 <!-- -------------------------------- Header Section Ends -------------------------------- -->
