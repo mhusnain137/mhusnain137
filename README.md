@@ -84,14 +84,11 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 <th width="100%" align="center" colspan="2">🧰 Tech Stack</th>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="2" align="center">
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,jupyter,git,github" />
 <br/>
-</p>
-</td>
-</tr>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -99,6 +96,12 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</p>
+</td>
+</tr>
+
+
 
 
 
