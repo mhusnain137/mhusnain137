@@ -84,7 +84,7 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 <th width="100%" align="center" colspan="2">🧰 Tech Stack</th>
 </tr>
 <tr>
-<td width="55%">
+<td >
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,jupyter,numpy,pandas,git,github" />
