@@ -194,13 +194,12 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
   
 <a href="https://www.linkedin.com/in/muhammad-husnain-169263371"><img src="https://img.icons8.com/color/48/linkedin.png" height="48"/></a>&nbsp;&nbsp;
 <a href="mailto:mhusnain1370@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" height="48"/></a>&nbsp;&nbsp;
+<a href="https://wa.me/923270536223"><img src="https://img.icons8.com/color/48/whatsapp.png" height="48"/></a>
 <!--
 <a href="https://x.com/Talhamirxa2"><img src="https://img.icons8.com/color/48/twitterx.png" height="48"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/talha_shafiq511/"><img src="https://img.icons8.com/color/48/instagram-new.png" height="48"/></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/511930t"><img src="https://img.icons8.com/color/48/facebook-new.png" height="48"/></a>&nbsp;&nbsp; 
 -->
-<a href="https://wa.me/923270536223"><img src="https://img.icons8.com/color/48/whatsapp.png" height="48"/></a>
-
 </div>
 📍 Faisalabad, Pakistan
 
