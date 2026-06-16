@@ -87,7 +87,7 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 <td colspan="2">
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,jupyter,numpy,pandas,git,github" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,jupyter,git,github" />
 
 </p>
 </td>
