@@ -25,19 +25,27 @@
 <tr>
 <th colspan="2">👨‍💻 About Me</th>
 </tr>
+
 <tr>
 <td valign="top" colspan="2">
 <p align="justify">
-Hello! I'm <strong>Muhammad Husnain</strong>, an Aspiring Data Scientist and Deep Learning enthusiast based in <strong>Faisalabad, Pakistan</strong>. Currently pursuing a <strong>BS in Computer Science</strong> (6th Semester), I bring hands-on experience in building real-world AI systems — from handwritten digit recognition to real-time emotion and gesture detection. <br/><br/>
-My passion lies at the intersection of computer vision, neural networks, and predictive modeling. I believe in building intelligent solutions that transform raw data into meaningful impact. I have worked on CNN-based vision projects including emotion detection, hand gesture recognition, and traffic sign classification.
+Hello! I'm <strong>Muhammad Husnain</strong>, a Machine Learning and Deep Learning enthusiast based in <strong>Faisalabad, Pakistan</strong>. Currently pursuing a <strong>BS in Computer Science</strong> at the University of Agriculture, Faisalabad (6th Semester), I have hands-on experience in developing AI and computer vision projects using Python and deep learning technologies. <br/><br/>
+
+My interest lies in building intelligent systems that can learn from data and solve real-world problems. I have worked on several projects including <strong>Handwritten Digit Recognition</strong>, <strong>Traffic Sign Recognition</strong>, <strong>Hand Gesture Recognition</strong>, and <strong>Emotion Detection</strong>. Through these projects, I have gained practical experience in image preprocessing, model training, evaluation, and CNN-based computer vision applications.
 <br/><br/>
+
+I enjoy exploring new AI technologies, improving my programming skills, and continuously learning through practical projects. My goal is to grow as an AI/ML professional and contribute to innovative solutions that create real impact.
+
 <h5>Current areas of focus:</h5>
 <ul>
-  <li>CNN-based Computer Vision & Real-Time Prediction Systems</li>
-  <li>Feature Engineering, Model Evaluation & Statistical Analysis</li>
-  <li>Supervised & Unsupervised Learning at scale</li>
+  <li>Machine Learning & Deep Learning</li>
+  <li>Computer Vision using CNNs</li>
+  <li>Image Classification & Recognition Systems</li>
+  <li>Data Analysis & Model Evaluation</li>
+  <li>Python for AI Applications</li>
 </ul>
-<q><i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i></q>
+
+<q><i>"The best way to learn AI is by building projects and solving real-world problems."</i></q>
 </p>
 </td>
 </tr>
