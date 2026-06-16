@@ -11,7 +11,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/92XXXXXXXXXX)
 [![Profile Views](https://komarev.com/ghpvc/?username=mhusnain137&label=Profile+Views&color=0EA5E9&style=flat)](https://github.com/mhusnain137)
 <br>
-[![Resume](https://img.shields.io/badge/Resume-blue?style=for-the-badge)](./Resume.pdf)
+[![Resume](https://img.shields.io/badge/📄%20Download%20Resume-0EA5E9?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0369A1)](./Resume.pdf)
 
 
 </div>
