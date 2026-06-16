@@ -8,10 +8,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mhusnain1370@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-husnain-169263371)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mhusnain137)
-[![Resume](https://img.shields.io/badge/Resume-Download%20CV-blue?style=for-the-badge)](./Muhammad_Husnain_Resume.pdf)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/92XXXXXXXXXX)
 [![Profile Views](https://komarev.com/ghpvc/?username=mhusnain137&label=Profile+Views&color=0EA5E9&style=flat)](https://github.com/mhusnain137)
 
+</div>
+
+<div align="center">
+[![Resume](https://img.shields.io/badge/Resume-Download%20CV-blue?style=for-the-badge)](./Muhammad_Husnain_Resume.pdf)
 </div>
 
 <!-- -------------------------------- Header Section Ends -------------------------------- -->
