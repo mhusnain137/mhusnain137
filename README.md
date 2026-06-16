@@ -5,15 +5,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=CNN+%7C+Computer+Vision+%7C+Image+Classification+%F0%9F%96%BC%EF%B8%8F;TensorFlow+%7C+Keras+%7C+Deep+Learning+%F0%9F%A7%A0;Supervised+%26+Unsupervised+Learning+%F0%9F%93%88;Real-Time+AI+Prediction+Systems+%F0%9F%9A%80;Aspiring+Data+Scientist+%E2%9C%A8;Turning+Data+into+Intelligent+Solutions+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mhusnain1370@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-husnain-169263371)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mhusnain137)
-<!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/92XXXXXXXXXX)-->
-[![Profile Views](https://komarev.com/ghpvc/?username=mhusnain137&label=Profile+Views&color=0EA5E9&style=flat)](https://github.com/mhusnain137)
-<br>
-<br>
-[![Resume](https://img.shields.io/badge/📄%20Resume-0EA5E9?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0369A1)](./Resume.pdf)
 
+<p align="center">
+  <a href="https://github.com/Talha511/Talha511/blob/main/Talha_Shafique.pdf">
+    <img src="https://img.icons8.com/fluency/100/resume.png" alt="Resume Icon" width="100" />
+    <br>
+    <img src="https://img.shields.io/static/v1?label=&message=Click%20to%20View%20My%20Resume&color=FF4500&style=for-the-badge&logo=hotjar&logoColor=white" height="50" style="border-radius:25px" />
+  </a>
+</p>
 
 </div>
 
