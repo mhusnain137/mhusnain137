@@ -3,15 +3,15 @@
 <!-- -------------------------------- Header Section Starts -------------------------------- -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Muhammad%20Husnain&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20and%20Deep%20Learning%20Enthusiast&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Husnain&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20and%20Deep%20Learning%20Enthusiast&descAlignY=55&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=CNN+%7C+Computer+Vision+%7C+Image+Classification+%F0%9F%96%BC%EF%B8%8F;TensorFlow+%7C+Keras+%7C+Deep+Learning+%F0%9F%A7%A0;Supervised+%26+Unsupervised+Learning+%F0%9F%93%88;Real-Time+AI+Prediction+Systems+%F0%9F%9A%80;Aspiring+Data+Scientist+%E2%9C%A8;Turning+Data+into+Intelligent+Solutions+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=CNN+%7C+Computer+Vision+%7C+Image+Classification+%F0%9F%96%BC%EF%B8%8F;TensorFlow+%7C+Keras+%7C+Deep+Learning+%F0%9F%A7%A0;Supervised+%26+Unsupervised+Learning+%F0%9F%93%88;Real-Time+AI+Prediction+Systems+%F0%9F%9A%80;Aspiring+Data+Scientist+%E2%9C%A8;Turning+Data+into+Intelligent+Solutions+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mhusnain1370@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-husnain-169263371)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mhusnain137)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/92XXXXXXXXXX)
-[![Profile Views](https://komarev.com/ghpvc/?username=mhusnain137&label=Profile+Views&color=7C3AED&style=flat)](https://github.com/mhusnain137)
+[![Profile Views](https://komarev.com/ghpvc/?username=mhusnain137&label=Profile+Views&color=0EA5E9&style=flat)](https://github.com/mhusnain137)
 
 </div>
 
@@ -96,7 +96,7 @@ My passion lies at the intersection of computer vision, neural networks, and pre
 </td>
 <td width="45%" align="center">
 
-[![Husnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhusnain137&show_icons=true&title_color=7C3AED&icon_color=10B981&text_color=e2e8f0&bg_color=0f172a&hide_border=true&count_private=true)](https://github.com/mhusnain137)
+[![Husnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhusnain137&show_icons=true&title_color=0EA5E9&icon_color=06B6D4&text_color=e2e8f0&bg_color=0f172a&hide_border=true&count_private=true)](https://github.com/mhusnain137)
 
 </td>
 </tr>
@@ -108,12 +108,12 @@ My passion lies at the intersection of computer vision, neural networks, and pre
 <tr>
 <td width="50%" align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhusnain137&theme=midnight-purple&hide_border=true&stroke=7C3AED&ring=10B981&fire=F59E0B)](https://github.com/mhusnain137)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhusnain137&theme=tokyonight&hide_border=true&stroke=0EA5E9&ring=06B6D4&fire=38BDF8)](https://github.com/mhusnain137)
 
 </td>
 <td width="50%" align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhusnain137&langs_count=6&layout=compact&title_color=7C3AED&icon_color=10B981&text_color=e2e8f0&bg_color=0f172a&hide_border=true)](https://github.com/mhusnain137)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhusnain137&langs_count=6&layout=compact&title_color=0EA5E9&icon_color=06B6D4&text_color=e2e8f0&bg_color=0f172a&hide_border=true)](https://github.com/mhusnain137)
 
 </td>
 </tr>
@@ -192,7 +192,7 @@ My passion lies at the intersection of computer vision, neural networks, and pre
 <tr>
 <td colspan="2" align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mhusnain137&theme=darkhub&no-frame=true&no-bg=true&row=1&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mhusnain137&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </td>
 </tr>
@@ -203,8 +203,8 @@ My passion lies at the intersection of computer vision, neural networks, and pre
 <!-- -------------------------------- Footer Section Starts -------------------------------- -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=200&section=header&text=Turning%20Data%20into%20Intelligent%20Solutions&fontSize=22&fontColor=C4B5FD&animation=fadeIn&fontAlignY=45&desc=Muhammad%20Husnain%20%7C%20ML%20%26%20Deep%20Learning%20Enthusiast%20%7C%20Faisalabad%2C%20Pakistan&descAlignY=68&descSize=13&descColor=94A3B8"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Turning%20Data%20into%20Intelligent%20Solutions&fontSize=22&fontColor=7DD3FC&animation=fadeIn&fontAlignY=45&desc=Muhammad%20Husnain%20%7C%20ML%20%26%20Deep%20Learning%20Enthusiast%20%7C%20Faisalabad%2C%20Pakistan&descAlignY=68&descSize=13&descColor=BAE6FD"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
 
 <!-- -------------------------------- Footer Section Ends -------------------------------- -->
