@@ -1,5 +1,3 @@
-# Muhammad Husnain — GitHub Profile README
-
 <!-- -------------------------------- Header Section Starts -------------------------------- -->
 
 <div align="center">
