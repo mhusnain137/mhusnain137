@@ -195,7 +195,7 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 </tr>
 
 <!-- ======= TROPHY ======= -->
-<tr><th align="center" colspan="2">🏆 GitHub Trophies</th></tr>
+<!-- <tr><th align="center" colspan="2">🏆 GitHub Trophies</th></tr>
 <tr>
 <td colspan="2" align="center">
 
@@ -205,13 +205,13 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 </tr>
 
 </table>
-</div>
+</div> -->
 
 <!-- -------------------------------- Footer Section Starts -------------------------------- -->
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Turning%20Data%20into%20Intelligent%20Solutions&fontSize=22&fontColor=7DD3FC&animation=fadeIn&fontAlignY=45&desc=Muhammad%20Husnain%20%7C%20ML%20%26%20Deep%20Learning%20Enthusiast%20%7C%20Faisalabad%2C%20Pakistan&descAlignY=68&descSize=13&descColor=BAE6FD"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
+</div> -->
 
 <!-- -------------------------------- Footer Section Ends -------------------------------- -->
