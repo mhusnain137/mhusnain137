@@ -200,12 +200,13 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 <a href="https://www.instagram.com/talha_shafiq511/"><img src="https://img.icons8.com/color/48/instagram-new.png" height="48"/></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/511930t"><img src="https://img.icons8.com/color/48/facebook-new.png" height="48"/></a>&nbsp;&nbsp; 
 -->
-</div>
-📍 Faisalabad, Pakistan
-<br/>
+
 <p align="center" style="margin-top:20px;">
   <img src="https://komarev.com/ghpvc/?username=Talha511&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 </p>
+</div>
+📍 Faisalabad, Pakistan
+
 
 </td>
 </tr>
