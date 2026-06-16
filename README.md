@@ -93,7 +93,7 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 
 </tr>
 
-<br/>
+
 
 <tr>
 <td colspan="2">
