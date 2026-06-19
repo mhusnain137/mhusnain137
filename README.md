@@ -77,9 +77,7 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,jupyter,git,github" />
 <br/>
-</p>
 
-<p align="center">
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
