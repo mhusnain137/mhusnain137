@@ -148,10 +148,11 @@ Matriculation — 2019 – 2021
   <li>Worked on end-to-end deep learning projects from data collection to deployment</li>
 </ul>
 
-<h2 align="center">Certificates</h2>
+<br/>
 
-<p>
+<h2 align="center">📜 Certifications</h2>
 
+<p align="center">
 🏅 <strong>Machine Learning</strong> — Career Institute, Faisalabad<br/>
 🏅 <strong>Data Science</strong> — Career Institute, Faisalabad
 </p>
