@@ -74,7 +74,7 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 
 <h2 align="center">🧰 Tech Stack</h2>
 
-<p >
+<div align="center" >
 <img src="https://skillicons.dev/icons?i=python,tensorflow,jupyter,git,github" />
 <br/>
 
@@ -84,7 +84,7 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-</p>
+</div>
 
 <br/>
 
