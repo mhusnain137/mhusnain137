@@ -103,28 +103,15 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 
 <h2 align="center">🌟 Featured Projects</h2>
 
-<p>
-🔢 <strong><a href="https://github.com/mhusnain137/Handwritten-Digit-Recogni...">Handwritten Digit Recognition</a></strong><br/>
-Deep neural network classifying handwritten digits with high accuracy<br/>
-Tech Stack: TensorFlow, Keras, Image Preprocessing — Status: 🟢 Done
-</p>
+<p align="center">
 
-<p>
-🚦 <strong><a href="https://github.com/mhusnain137/Traffic-Sign-Recognition">Traffic Sign Recognition</a></strong><br/>
-Classifies road signs for autonomous driving applications<br/>
-Tech Stack: TensorFlow, Keras, Image Preprocessing — Status: 🟢 Done
-</p>
+| 🚀 Project | 📄 Description | 🛠️ Tech | 📌 Status | 🔗 Links |
+|-----------|--------------|---------|----------|---------|
+| <img src="https://img.icons8.com/fluency/48/handwriting.png" height="16" style="vertical-align:middle;"/> **Handwritten Digit Recognition** | Deep neural network classifying handwritten digits with high accuracy | <img src="https://skillicons.dev/icons?i=python,tensorflow" height="18" style="vertical-align:middle;"/> <img src="https://img.icons8.com/fluency/48/keras.png" height="18" style="vertical-align:middle;"/> | 🟢 Completed | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/mhusnain137/Handwritten-Digit-Recogni...) |
+| <img src="https://img.icons8.com/fluency/48/traffic-jam.png" height="16" style="vertical-align:middle;"/> **Traffic Sign Recognition** | Classifies road signs for autonomous driving applications | <img src="https://skillicons.dev/icons?i=python,tensorflow" height="18" style="vertical-align:middle;"/> <img src="https://img.icons8.com/fluency/48/keras.png" height="18" style="vertical-align:middle;"/> | 🟢 Completed | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/mhusnain137/Traffic-Sign-Recognition) |
+| <img src="https://img.icons8.com/fluency/48/raised-hand.png" height="16" style="vertical-align:middle;"/> **Hand Gesture Recognition** | Real-time CNN system detecting and interpreting hand gestures | <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" height="18" style="vertical-align:middle;"/> | 🟢 Completed | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/mhusnain137/Hand-Gesture-Recognition) |
+| <img src="https://img.icons8.com/fluency/48/emoji.png" height="16" style="vertical-align:middle;"/> **Emotion Detection** | Facial emotion recognition system using deep learning | <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" height="18" style="vertical-align:middle;"/> | 🟢 Completed | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/mhusnain137/Emotion-detection) |
 
-<p>
-🤚 <strong><a href="https://github.com/mhusnain137/Hand-Gesture-Recognition">Hand Gesture Recognition</a></strong><br/>
-Real-time CNN system detecting and interpreting hand gestures<br/>
-Tech Stack: TensorFlow, Keras, OpenCV — Status: 🟢 Done
-</p>
-
-<p>
-😊 <strong><a href="https://github.com/mhusnain137/Emotion-detection">Emotion Detection</a></strong><br/>
-Facial emotion recognition system using deep learning<br/>
-Tech Stack: TensorFlow, Keras, OpenCV — Status: 🟢 Done
 </p>
 
 <br/>
