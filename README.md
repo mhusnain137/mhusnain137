@@ -77,6 +77,7 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 <div align="center" >
 <img src="https://skillicons.dev/icons?i=python,tensorflow,jupyter,git,github" />
 <br/>
+<br/>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -90,13 +91,13 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
+<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhusnain137&theme=tokyonight&hide_border=true&stroke=0EA5E9&ring=06B6D4&fire=38BDF8)](https://github.com/mhusnain137)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhusnain137&langs_count=6&layout=compact&title_color=0EA5E9&icon_color=06B6D4&text_color=e2e8f0&bg_color=0f172a&hide_border=true)](https://github.com/mhusnain137)
 
-</p>
+</div>
 
 <br/>
 
