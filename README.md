@@ -21,15 +21,9 @@
 <!-- -------------------------------- Main Table Starts ---------------------------------- -->
 
 <div>
-<table>
 
-<!-- ======= ABOUT ME ======= -->
-<tr>
-<th colspan="2">👨‍💻 About Me</th>
-</tr>
+<h2 align="center">👨‍💻 About Me</h2>
 
-<tr>
-<td valign="top" colspan="2">
 <p align="justify">
 Hello! I'm <strong>Muhammad Husnain</strong>, a Machine Learning and Deep Learning enthusiast based in <strong>Faisalabad, Pakistan</strong>. Currently pursuing a <strong>BS in Computer Science</strong> (6th Semester), I have hands-on experience in developing AI and computer vision projects using Python and deep learning technologies. <br/><br/>
 
@@ -37,6 +31,7 @@ My interest lies in building intelligent systems that can learn from data and so
 <br/><br/>
 
 I enjoy exploring new AI technologies, improving my programming skills, and continuously learning through practical projects. My goal is to grow as an AI/ML professional and contribute to innovative solutions that create real impact.
+</p>
 
 <h5>Current areas of focus:</h5>
 <ul>
@@ -47,48 +42,39 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
   <li>Python for AI Applications</li>
 </ul>
 
+<br/>
+
+<h2 align="center">🔬 Core Expertise Areas</h2>
+
+<p>
+<strong>🤖 Deep Learning & Computer Vision</strong>
+<ul>
+  <li>Convolutional Neural Networks (CNNs)</li>
+  <li>Real-Time Emotion & Gesture Detection</li>
+  <li>Handwritten Digit Recognition</li>
+  <li>Traffic Sign Classification</li>
+  <li>Image Preprocessing & Augmentation</li>
+  <li>Hand Gesture & Sign Recognition</li>
+</ul>
 </p>
-</td>
-</tr>
 
-<!-- ======= CORE AREAS ======= -->
-<tr><th align="center" colspan="2">🔬 Core Expertise Areas</th></tr>
-<tr>
-<td width="50%" align="justify">
+<p>
+<strong>📊 Machine Learning & Data Science</strong>
+<ul>
+  <li>Supervised Learning — Regression & Classification</li>
+  <li>Unsupervised Learning — Clustering (K-Means, DBSCAN)</li>
+  <li>Exploratory Data Analysis (EDA)</li>
+  <li>Feature Engineering & Selection</li>
+  <li>Model Evaluation & Hyperparameter Tuning</li>
+  <li>Statistical Analysis with Python</li>
+</ul>
+</p>
 
-**🤖 Deep Learning & Computer Vision**
-- Convolutional Neural Networks (CNNs)
-- Real-Time Emotion & Gesture Detection
-- Handwritten Digit Recognition
-- Traffic Sign Classification
-- Image Preprocessing & Augmentation
-- Hand Gesture & Sign Recognition
-
-</td>
-<td width="50%" align="justify">
-
-**📊 Machine Learning & Data Science**
-- Supervised Learning — Regression & Classification
-- Unsupervised Learning — Clustering (K-Means, DBSCAN)
-- Exploratory Data Analysis (EDA)
-- Feature Engineering & Selection
-- Model Evaluation & Hyperparameter Tuning
-- Statistical Analysis with Python
-
-</td>
-</tr>
-
-<!-- ======= TECH STACK ======= -->
 <br/>
-<br/>
-<tr>
-<th width="100%" align="center" colspan="2">🧰 Tech Stack</th>
-</tr>
-<tr>
-<td colspan="2" align="center">
+
+<h2 align="center">🧰 Tech Stack</h2>
+
 <p align="center">
-
-<br> 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,jupyter,git,github" />
 <br/>
 
@@ -98,132 +84,100 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
 </p>
-</td>
-</tr>
 
+<br/>
 
+<h2 align="center">📊 GitHub Analytics</h2>
 
-
-<!-- ======= GITHUB STATS ======= -->
-<tr>
-<td colspan="2" align="center">📊 GitHub Analytics</td>
-</tr>
-<tr>
-<td width="50%" align="center">
+<p align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhusnain137&theme=tokyonight&hide_border=true&stroke=0EA5E9&ring=06B6D4&fire=38BDF8)](https://github.com/mhusnain137)
 
-</td>
-<td width="50%" align="center">
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhusnain137&langs_count=6&layout=compact&title_color=0EA5E9&icon_color=06B6D4&text_color=e2e8f0&bg_color=0f172a&hide_border=true)](https://github.com/mhusnain137)
 
-</td>
-</tr>
+</p>
 
-<!-- ======= PROJECTS ======= -->
-<tr><th align="center" colspan="2">🌟 Featured Projects</th></tr>
-<tr>
-<td colspan="2">
+<br/>
 
-| 🚀 Project | 📄 Description | 🛠️ Tech Stack | 📌 Status |
-|:---|:---|:---|:---:|
-| 🔢 **[Handwritten Digit Recognition](https://github.com/mhusnain137/Handwritten-Digit-Recogni...)** | Deep neural network classifying handwritten digits with high accuracy | TensorFlow, Keras, Image Preprocessing | 🟢 Done |
-| 🚦 **[Traffic Sign Recognition](https://github.com/mhusnain137/Traffic-Sign-Recognition)** | Classifies road signs for autonomous driving applications | TensorFlow, Keras, Image Preprocessing | 🟢 Done |
-| 🤚 **[Hand Gesture Recognition](https://github.com/mhusnain137/Hand-Gesture-Recognition)** | Real-time CNN system detecting and interpreting hand gestures | TensorFlow, Keras, OpenCV | 🟢 Done |
-| 😊 **[Emotion Detection](https://github.com/mhusnain137/Emotion-detection)** | Facial emotion recognition system using deep learning | TensorFlow, Keras, OpenCV | 🟢 Done |
+<h2 align="center">🌟 Featured Projects</h2>
 
-</td>
-</tr>
+<p>
+🔢 <strong><a href="https://github.com/mhusnain137/Handwritten-Digit-Recogni...">Handwritten Digit Recognition</a></strong><br/>
+Deep neural network classifying handwritten digits with high accuracy<br/>
+Tech Stack: TensorFlow, Keras, Image Preprocessing — Status: 🟢 Done
+</p>
 
-<!-- ======= EDUCATION ======= -->
-<tr><th align="center" colspan="2">🎓 Education</th></tr>
-<tr>
-<td colspan="2">
+<p>
+🚦 <strong><a href="https://github.com/mhusnain137/Traffic-Sign-Recognition">Traffic Sign Recognition</a></strong><br/>
+Classifies road signs for autonomous driving applications<br/>
+Tech Stack: TensorFlow, Keras, Image Preprocessing — Status: 🟢 Done
+</p>
 
-| 🏫 Institution | 📚 Qualification | 📅 Duration |
-|:---|:---|:---:|
-| University of Agriculture, Faisalabad | BS Computer Science (6th Semester) | 2023 – Present |
-| Faisalabad | Intermediate — Pre-Engineering | 2021 – 2023 |
-| Faisalabad | Matriculation | 2019 – 2021 |
+<p>
+🤚 <strong><a href="https://github.com/mhusnain137/Hand-Gesture-Recognition">Hand Gesture Recognition</a></strong><br/>
+Real-time CNN system detecting and interpreting hand gestures<br/>
+Tech Stack: TensorFlow, Keras, OpenCV — Status: 🟢 Done
+</p>
 
-</td>
-</tr>
+<p>
+😊 <strong><a href="https://github.com/mhusnain137/Emotion-detection">Emotion Detection</a></strong><br/>
+Facial emotion recognition system using deep learning<br/>
+Tech Stack: TensorFlow, Keras, OpenCV — Status: 🟢 Done
+</p>
 
-<!-- ======= EXPERIENCE & CERTIFICATIONS ======= -->
-<tr><th align="center" colspan="2">💼 Experience & Certifications</th></tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-**Machine Learning & Deep Learning Trainee**
+<h2 align="center">🎓 Education</h2>
+
+<p>
+<strong>University of Agriculture, Faisalabad</strong><br/>
+BS Computer Science (6th Semester) — 2023 – Present
+</p>
+
+<p>
+<strong>Faisalabad</strong><br/>
+Intermediate — Pre-Engineering — 2021 – 2023
+</p>
+
+<p>
+<strong>Faisalabad</strong><br/>
+Matriculation — 2019 – 2021
+</p>
+
+<br/>
+
+<h2 align="center">💼 Experience & Certifications</h2>
+
+<p>
+<strong>Machine Learning & Deep Learning Trainee</strong><br/>
 📍 Career Institute, Faisalabad
+</p>
 
-- Built CNN-based computer vision systems: hand gesture recognition, emotion detection, traffic sign classification
-- Gained experience in data preprocessing, model training, and real-time inference pipelines
-- Worked on end-to-end deep learning projects from data collection to deployment
+<ul>
+  <li>Built CNN-based computer vision systems: hand gesture recognition, emotion detection, traffic sign classification</li>
+  <li>Gained experience in data preprocessing, model training, and real-time inference pipelines</li>
+  <li>Worked on end-to-end deep learning projects from data collection to deployment</li>
+</ul>
 
-</td>
-<td width="50%" valign="top">
+<p>
+<strong>📜 Certifications</strong><br/>
+🏅 <strong>Machine Learning</strong> — Career Institute, Faisalabad<br/>
+🏅 <strong>Data Science</strong> — Career Institute, Faisalabad
+</p>
 
-**📜 Certifications**
+<br/>
 
-🏅 **Machine Learning**
-&nbsp;&nbsp;&nbsp;&nbsp;Career Institute, Faisalabad
+<h2 align="center">🤝 Connect With Me</h2>
 
-🏅 **Data Science**
-&nbsp;&nbsp;&nbsp;&nbsp;Career Institute, Faisalabad
-
-</td>
-</tr>
-
-<!-- ======= CONNECT ======= -->
-<tr><th align="center" colspan="2">🤝 Connect With Me</th></tr>
-<tr>
-<td colspan="2" align="center">
 <div align="center">
-  
+
 <a href="https://www.linkedin.com/in/muhammad-husnain-169263371"><img src="https://img.icons8.com/color/48/linkedin.png" height="48"/></a>&nbsp;&nbsp;
 <a href="mailto:mhusnain1370@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" height="48"/></a>&nbsp;&nbsp;
 <a href="https://wa.me/923270536223"><img src="https://img.icons8.com/color/48/whatsapp.png" height="48"/></a>
-<!--
-<a href="https://x.com/Talhamirxa2"><img src="https://img.icons8.com/color/48/twitterx.png" height="48"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/talha_shafiq511/"><img src="https://img.icons8.com/color/48/instagram-new.png" height="48"/></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/511930t"><img src="https://img.icons8.com/color/48/facebook-new.png" height="48"/></a>&nbsp;&nbsp; 
--->
-
 
 </div>
-📍 Faisalabad, Pakistan
 
-<!-- <br>  <br> -->
-<!--
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Talha511&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
-</p>
--->
-</td>
-</tr>
+<p align="center">📍 Faisalabad, Pakistan</p>
 
-<!-- ======= TROPHY ======= -->
-<!-- <tr><th align="center" colspan="2">🏆 GitHub Trophies</th></tr>
-<tr>
-<td colspan="2" align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mhusnain137&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</td>
-</tr>
-
-</table>
-</div> -->
-
-<!-- -------------------------------- Footer Section Starts -------------------------------- -->
-
-<!-- <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Turning%20Data%20into%20Intelligent%20Solutions&fontSize=22&fontColor=7DD3FC&animation=fadeIn&fontAlignY=45&desc=Muhammad%20Husnain%20%7C%20ML%20%26%20Deep%20Learning%20Enthusiast%20%7C%20Faisalabad%2C%20Pakistan&descAlignY=68&descSize=13&descColor=BAE6FD"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div> -->
-
-<!-- -------------------------------- Footer Section Ends -------------------------------- -->
+</div>
