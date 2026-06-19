@@ -44,31 +44,52 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 
 <br/>
 
+
 <h2 align="center">🔬 Core Expertise Areas</h2>
 
 <p>
-<strong>🤖 Deep Learning & Computer Vision</strong>
+<strong>📈 Machine Learning</strong>
 <ul>
-  <li>Convolutional Neural Networks (CNNs)</li>
-  <li>Real-Time Emotion & Gesture Detection</li>
-  <li>Handwritten Digit Recognition</li>
-  <li>Traffic Sign Classification</li>
-  <li>Image Preprocessing & Augmentation</li>
-  <li>Hand Gesture & Sign Recognition</li>
+  <li>Python Programming Fundamentals</li>
+  <li>Supervised Learning — Regression & Classification</li>
+  <li>Unsupervised Learning — Clustering (K-Means, DBSCAN)</li>
+  <li>Model Training & Evaluation</li>
+  <li>Hyperparameter Tuning</li>
+  <li>Overfitting & Underfitting — Regularization Techniques</li>
+  <li>Scikit-learn for Model Building</li>
 </ul>
 </p>
 
 <p>
-<strong>📊 Machine Learning & Data Science</strong>
+<strong>🧠 Deep Learning</strong>
 <ul>
-  <li>Supervised Learning — Regression & Classification</li>
-  <li>Unsupervised Learning — Clustering (K-Means, DBSCAN)</li>
-  <li>Exploratory Data Analysis (EDA)</li>
-  <li>Feature Engineering & Selection</li>
-  <li>Model Evaluation & Hyperparameter Tuning</li>
-  <li>Statistical Analysis with Python</li>
+  <li>Artificial Neural Networks (ANNs) Fundamentals</li>
+  <li>Convolutional Neural Networks (CNNs)</li>
+  <li>Image Preprocessing & Augmentation</li>
+  <li>Real-Time Emotion & Gesture Detection</li>
+  <li>Handwritten Digit Recognition</li>
+  <li>Traffic Sign Classification</li>
+  <li>Hand Gesture & Sign Recognition</li>
+  <li>TensorFlow & Keras for Model Development</li>
 </ul>
 </p>
+
+<p>
+<strong>📊 Data Science</strong>
+<ul>
+  <li>Python for Data Analysis (NumPy, Pandas)</li>
+  <li>Exploratory Data Analysis (EDA)</li>
+  <li>Data Cleaning & Preprocessing</li>
+  <li>Data Visualization (Matplotlib, Seaborn)</li>
+  <li>Feature Engineering & Feature Selection</li>
+  <li>Statistical Analysis Fundamentals</li>
+  <li>Working with Structured & Unstructured Datasets</li>
+  <li>Handling Missing Values & Outliers</li>
+  <li>Basic SQL for Data Querying</li>
+  <li>Model Evaluation Metrics (Accuracy, Precision, Recall, F1-Score)</li>
+</ul>
+</p>
+
 
 <br/>
 
@@ -118,19 +139,23 @@ I enjoy exploring new AI technologies, improving my programming skills, and cont
 
 <h2 align="center">🎓 Education</h2>
 
+
 <p>
-<strong>University of Agriculture, Faisalabad</strong><br/>
-BS Computer Science (6th Semester) — 2023 – Present
+<img src="https://img.icons8.com/fluency/48/university.png" height="20" style="vertical-align:middle;"/> <strong>University of Agriculture, Faisalabad</strong><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 BS Computer Science (6th Semester)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;📅 2023 – Present
 </p>
 
 <p>
-<strong>Faisalabad</strong><br/>
-Intermediate — Pre-Engineering — 2021 – 2023
+<img src="https://img.icons8.com/fluency/48/school.png" height="20" style="vertical-align:middle;"/> <strong>Faisalabad</strong><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;📘 Intermediate — Pre-Engineering<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;📅 2021 – 2023
 </p>
 
 <p>
-<strong>Faisalabad</strong><br/>
-Matriculation — 2019 – 2021
+<img src="https://img.icons8.com/fluency/48/student-male.png" height="20" style="vertical-align:middle;"/> <strong>Faisalabad</strong><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;📗 Matriculation<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;📅 2019 – 2021
 </p>
 
 <br/>
