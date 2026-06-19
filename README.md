@@ -135,7 +135,7 @@ Matriculation — 2019 – 2021
 
 <br/>
 
-<h2 align="center">💼 Experience & Certifications</h2>
+<h2 align="center">💼 Experience</h2>
 
 <p>
 <strong>Machine Learning & Deep Learning Trainee</strong><br/>
@@ -148,8 +148,10 @@ Matriculation — 2019 – 2021
   <li>Worked on end-to-end deep learning projects from data collection to deployment</li>
 </ul>
 
+<h2 align="center">Certificates</h2>
+
 <p>
-<strong>📜 Certifications</strong><br/>
+
 🏅 <strong>Machine Learning</strong> — Career Institute, Faisalabad<br/>
 🏅 <strong>Data Science</strong> — Career Institute, Faisalabad
 </p>
